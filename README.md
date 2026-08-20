@@ -4,17 +4,6 @@
   <strong>A centralized repository for tracking Discord Quests.</strong>
 </p>
 
-<p align="center">
-  <a href="https://discord.gg/RSYWsFpgsu">
-    <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://youtube.com/channel/UC5uhuVkT0mWUEeqiu_F20Hg">
-    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-</p>
-
----
-
 ## About
 
 This repository is dedicated to tracking **Discord Quests** in a structured and organized way.
