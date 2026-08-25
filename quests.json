@@ -103778,5 +103778,266 @@
       "task_config": [],
       "id": "1541371710417272834"
     }
+  },
+  {
+    "id": "1541366408632475670",
+    "user_status": null,
+    "targeted_content": [],
+    "preview": false,
+    "traffic_metadata_raw": "",
+    "config": {
+      "config_version": 2,
+      "starts_at": "2026-08-25T22:00:00+00:00",
+      "expires_at": "2026-10-12T06:59:00+00:00",
+      "features": [
+        15
+      ],
+      "application": {
+        "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260825_Pre_A2_FR_Pre_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers",
+        "id": "545364944258990091",
+        "name": "Discord"
+      },
+      "assets": {
+        "hero": "quests/1541366408632475670/1541597134753632296.jpg",
+        "hero_video": "quests/1541318428281929758/1541358004383916104_720.mp4",
+        "quest_bar_hero_blurhash": "KvcRDIQIl7d6eYd6iXoCnANtWg==",
+        "quest_bar_hero": "quests/1541366408632475670/1541597336529018931.jpg",
+        "quest_bar_hero_video": "quests/1541318428281929758/1541358004383916104_720.mp4",
+        "game_tile": "PLACEHOLDER",
+        "logotype": "PLACEHOLDER",
+        "game_tile_light": "quests/1541318428281929758/1541357762104004638.png",
+        "game_tile_dark": "quests/1541318428281929758/1541357762104004638.png",
+        "logotype_light": "quests/1541318428281929758/1541357802172448768.png",
+        "logotype_dark": "quests/1541318428281929758/1541357802172448768.png"
+      },
+      "colors": {
+        "primary": "#4752C4",
+        "secondary": "#000000"
+      },
+      "messages": {
+        "quest_name": "AION 2",
+        "game_title": "AION 2",
+        "game_publisher": "NC"
+      },
+      "task_config_v2": {
+        "tasks": {
+          "WATCH_VIDEO": {
+            "type": "WATCH_VIDEO",
+            "target": 28,
+            "assets": {
+              "video": {
+                "url": "quests/1541366408632475670/1541367042261909574_1080.mp4",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "quests/1541366408632475670/1541596992617054331.png"
+              },
+              "video_low_res": {
+                "url": "quests/1541366408632475670/1541367042261909574_720.mp4",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "quests/1541366408632475670/1541596992617054331.png"
+              },
+              "video_hls": {
+                "url": "quests/1541366408632475670/1541367042261909574.m3u8",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "quests/1541366408632475670/1541596992617054331.png"
+              }
+            },
+            "messages": {
+              "video_title": "PLACEHOLDER"
+            }
+          },
+          "WATCH_VIDEO_ON_MOBILE": {
+            "type": "WATCH_VIDEO_ON_MOBILE",
+            "target": 28,
+            "assets": {
+              "video": {
+                "url": "quests/1541366408632475670/1541367024964599898_1080.mp4",
+                "width": 1080,
+                "height": 1920,
+                "thumbnail": "quests/1541366408632475670/1541596992617054331.png"
+              },
+              "video_low_res": {
+                "url": "quests/1541366408632475670/1541367024964599898_720.mp4",
+                "width": 1080,
+                "height": 1920,
+                "thumbnail": "quests/1541366408632475670/1541596992617054331.png"
+              },
+              "video_hls": {
+                "url": "quests/1541366408632475670/1541367024964599898.m3u8",
+                "width": 1080,
+                "height": 1920,
+                "thumbnail": "quests/1541366408632475670/1541596992617054331.png"
+              }
+            },
+            "messages": {
+              "video_title": "PLACEHOLDER"
+            }
+          }
+        },
+        "join_operator": "or"
+      },
+      "rewards_config": {
+        "assignment_method": 1,
+        "rewards": [
+          {
+            "type": 4,
+            "sku_id": "1287881739531976815",
+            "messages": {
+              "name": "200 Orbs",
+              "name_with_article": "200 Orbs",
+              "redemption_instructions_by_platform": {
+                "0": "PLACEHOLDER"
+              }
+            },
+            "orb_quantity": 200,
+            "premium_orb_quantity": null
+          }
+        ],
+        "rewards_expire_at": "2026-11-11T06:59:00+00:00",
+        "platforms": [
+          0
+        ]
+      },
+      "share_policy": "shareable_everywhere",
+      "cta_config": {
+        "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260825_Pre_A2_FR_Pre_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers",
+        "button_label": "Learn More"
+      },
+      "task_config": [],
+      "id": "1541366408632475670"
+    }
+  },
+  {
+    "id": "1537189839588294657",
+    "user_status": null,
+    "targeted_content": [],
+    "preview": false,
+    "traffic_metadata_raw": "",
+    "config": {
+      "config_version": 2,
+      "starts_at": "2026-08-25T22:00:00+00:00",
+      "expires_at": "2026-09-01T06:59:00+00:00",
+      "features": [
+        15
+      ],
+      "application": {
+        "link": "https://store.steampowered.com/app/3230960/EXODUS/?utm_source=discord&utm_medium=paid&utm_campaign=paid_gamescom_us_0826_wishlists_steam&utm_content=0_desktop&utm_term=actionjunkies",
+        "id": "545364944258990091",
+        "name": "Discord"
+      },
+      "assets": {
+        "hero": "quests/1537189839588294657/1540060622027493478.jpg",
+        "hero_video": "quests/1537189839588294657/1541545684610715728.mp4",
+        "quest_bar_hero_blurhash": "jecFDIKPqDVklptmeplQqkyQOA==",
+        "quest_bar_hero": "quests/1537189839588294657/1540060927972479077.jpg",
+        "quest_bar_hero_video": "quests/1537189839588294657/1541545685260836954.mp4",
+        "game_tile": "1512172249728286791.png",
+        "logotype": "1512172248721522950.png",
+        "game_tile_light": "quests/1537189839588294657/1540060622006517881.png",
+        "game_tile_dark": "quests/1537189839588294657/1540060622006517881.png",
+        "logotype_light": "quests/1511153398618132580/1512172082069372948.png",
+        "logotype_dark": "quests/1511153398618132580/1512172082069372948.png"
+      },
+      "colors": {
+        "primary": "#4752C4",
+        "secondary": "#000000"
+      },
+      "messages": {
+        "quest_name": "EXODUS™ Wishlist",
+        "game_title": "EXODUS™",
+        "game_publisher": "Wizards of the Coast"
+      },
+      "task_config_v2": {
+        "tasks": {
+          "WATCH_VIDEO": {
+            "type": "WATCH_VIDEO",
+            "target": 148,
+            "assets": {
+              "video": {
+                "url": "quests/1537189839588294657/1541590936989991052_1080.mp4",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "quests/1537189839588294657/1540060621800873984.jpg"
+              },
+              "video_low_res": {
+                "url": "quests/1537189839588294657/1541590936989991052_720.mp4",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "quests/1537189839588294657/1540060621800873984.jpg"
+              },
+              "video_hls": {
+                "url": "quests/1537189839588294657/1541590936989991052.m3u8",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "quests/1537189839588294657/1540060621800873984.jpg"
+              }
+            },
+            "messages": {
+              "video_title": "EXODUS™ Gameplay"
+            }
+          },
+          "WATCH_VIDEO_ON_MOBILE": {
+            "type": "WATCH_VIDEO_ON_MOBILE",
+            "target": 148,
+            "assets": {
+              "video": {
+                "url": "quests/1537189839588294657/1541590936989991052_1080.mp4",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "quests/1537189839588294657/1540060621800873984.jpg"
+              },
+              "video_low_res": {
+                "url": "quests/1537189839588294657/1541590936989991052_720.mp4",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "quests/1537189839588294657/1540060621800873984.jpg"
+              },
+              "video_hls": {
+                "url": "quests/1537189839588294657/1541590936989991052.m3u8",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "quests/1537189839588294657/1540060621800873984.jpg"
+              }
+            },
+            "messages": {
+              "video_title": "EXODUS™ Gameplay"
+            }
+          }
+        },
+        "join_operator": "or"
+      },
+      "rewards_config": {
+        "assignment_method": 1,
+        "rewards": [
+          {
+            "type": 4,
+            "sku_id": "1287881739531976815",
+            "messages": {
+              "name": "200 Orbs",
+              "name_with_article": "200 Orbs",
+              "redemption_instructions_by_platform": {
+                "0": "PLACEHOLDER"
+              }
+            },
+            "orb_quantity": 200,
+            "premium_orb_quantity": null
+          }
+        ],
+        "rewards_expire_at": "2026-10-01T06:59:00+00:00",
+        "platforms": [
+          0
+        ]
+      },
+      "share_policy": "shareable_everywhere",
+      "cta_config": {
+        "link": "https://store.steampowered.com/app/3230960/EXODUS/?utm_source=discord&utm_medium=paid&utm_campaign=paid_gamescom_us_0826_wishlists_steam&utm_content=0_desktop&utm_term=actionjunkies",
+        "button_label": "Wishlist Now",
+        "subtitle": "Your EXODUS Begins April 7, 2027"
+      },
+      "task_config": [],
+      "id": "1537189839588294657"
+    }
   }
 ]
