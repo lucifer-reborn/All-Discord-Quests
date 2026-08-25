@@ -103518,5 +103518,135 @@
       "task_config": [],
       "id": "1540476174520557620"
     }
+  },
+  {
+    "id": "1541369647985594369",
+    "user_status": null,
+    "targeted_content": [],
+    "preview": false,
+    "traffic_metadata_raw": "",
+    "config": {
+      "config_version": 2,
+      "starts_at": "2026-08-25T22:00:00+00:00",
+      "expires_at": "2026-10-12T06:59:00+00:00",
+      "features": [
+        15
+      ],
+      "application": {
+        "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260825_Pre_A2_CA_Pre_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers",
+        "id": "545364944258990091",
+        "name": "Discord"
+      },
+      "assets": {
+        "hero": "quests/1541369647985594369/1541598241282592829.jpg",
+        "hero_video": "quests/1541318428281929758/1541358004383916104_720.mp4",
+        "quest_bar_hero_blurhash": "KvcRDIQIl7d6eYd6iXoCnANtWg==",
+        "quest_bar_hero": "quests/1541369647985594369/1541598239969644655.jpg",
+        "quest_bar_hero_video": "quests/1541318428281929758/1541358004383916104_720.mp4",
+        "game_tile": "PLACEHOLDER",
+        "logotype": "PLACEHOLDER",
+        "game_tile_light": "quests/1541318428281929758/1541357762104004638.png",
+        "game_tile_dark": "quests/1541318428281929758/1541357762104004638.png",
+        "logotype_light": "quests/1541318428281929758/1541357802172448768.png",
+        "logotype_dark": "quests/1541318428281929758/1541357802172448768.png"
+      },
+      "colors": {
+        "primary": "#4752C4",
+        "secondary": "#000000"
+      },
+      "messages": {
+        "quest_name": "AION 2",
+        "game_title": "AION 2",
+        "game_publisher": "NC"
+      },
+      "task_config_v2": {
+        "tasks": {
+          "WATCH_VIDEO": {
+            "type": "WATCH_VIDEO",
+            "target": 28,
+            "assets": {
+              "video": {
+                "url": "quests/1541369647985594369/1541370430550577244_1080.mp4",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "quests/1541369647985594369/1541598197598785636.png"
+              },
+              "video_low_res": {
+                "url": "quests/1541369647985594369/1541370430550577244_720.mp4",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "quests/1541369647985594369/1541598197598785636.png"
+              },
+              "video_hls": {
+                "url": "quests/1541369647985594369/1541370430550577244.m3u8",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "quests/1541369647985594369/1541598197598785636.png"
+              }
+            },
+            "messages": {
+              "video_title": "PLACEHOLDER"
+            }
+          },
+          "WATCH_VIDEO_ON_MOBILE": {
+            "type": "WATCH_VIDEO_ON_MOBILE",
+            "target": 28,
+            "assets": {
+              "video": {
+                "url": "quests/1541369647985594369/1541593220495056966_1080.mp4",
+                "width": 1080,
+                "height": 1920,
+                "thumbnail": "quests/1541369647985594369/1541598239969644655.jpg"
+              },
+              "video_low_res": {
+                "url": "quests/1541369647985594369/1541593220495056966_720.mp4",
+                "width": 1080,
+                "height": 1920,
+                "thumbnail": "quests/1541369647985594369/1541598239969644655.jpg"
+              },
+              "video_hls": {
+                "url": "quests/1541369647985594369/1541593220495056966.m3u8",
+                "width": 1080,
+                "height": 1920,
+                "thumbnail": "quests/1541369647985594369/1541598239969644655.jpg"
+              }
+            },
+            "messages": {
+              "video_title": "PLACEHOLDER"
+            }
+          }
+        },
+        "join_operator": "or"
+      },
+      "rewards_config": {
+        "assignment_method": 1,
+        "rewards": [
+          {
+            "type": 4,
+            "sku_id": "1287881739531976815",
+            "messages": {
+              "name": "200 Orbs",
+              "name_with_article": "200 Orbs",
+              "redemption_instructions_by_platform": {
+                "0": "PLACEHOLDER"
+              }
+            },
+            "orb_quantity": 200,
+            "premium_orb_quantity": null
+          }
+        ],
+        "rewards_expire_at": "2026-11-11T06:59:00+00:00",
+        "platforms": [
+          0
+        ]
+      },
+      "share_policy": "shareable_everywhere",
+      "cta_config": {
+        "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260825_Pre_A2_CA_Pre_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers",
+        "button_label": "Learn More"
+      },
+      "task_config": [],
+      "id": "1541369647985594369"
+    }
   }
 ]
