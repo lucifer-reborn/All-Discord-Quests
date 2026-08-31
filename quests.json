@@ -105276,5 +105276,135 @@
       "task_config": [],
       "id": "1516889218218197062"
     }
+  },
+  {
+    "id": "1540124165225324656",
+    "user_status": null,
+    "targeted_content": [],
+    "preview": false,
+    "traffic_metadata_raw": "",
+    "config": {
+      "config_version": 2,
+      "starts_at": "2026-08-31T17:00:00+00:00",
+      "expires_at": "2026-09-22T00:00:00+00:00",
+      "features": [
+        15
+      ],
+      "application": {
+        "link": "https://www.playstation.com/it-happens-on-ps5/?emcid=hd-ha-536563",
+        "id": "545364944258990091",
+        "name": "Discord"
+      },
+      "assets": {
+        "hero": "quests/1540124165225324656/1542283105417560195.jpg",
+        "quest_bar_hero_blurhash": "BggGDIKFqHSQlJh0e5aUoEkKmg==",
+        "quest_bar_hero": "quests/1540124165225324656/1541559047768113233.jpg",
+        "quest_bar_hero_video": "quests/1540124165225324656/1540129049257451580_720.mp4",
+        "game_tile": "PLACEHOLDER",
+        "logotype": "PLACEHOLDER",
+        "game_tile_light": "quests/1540124165225324656/1540124884531806338.png",
+        "game_tile_dark": "quests/1540124165225324656/1540127125850431568.png",
+        "logotype_light": "quests/1540124165225324656/1540124884427087892.png",
+        "logotype_dark": "quests/1540124165225324656/1540127258839089152.png"
+      },
+      "colors": {
+        "primary": "#4752C4",
+        "secondary": "#000000"
+      },
+      "messages": {
+        "quest_name": "It Happens On PS5",
+        "game_title": "It Happens On PS5",
+        "game_publisher": "PlayStation"
+      },
+      "task_config_v2": {
+        "tasks": {
+          "WATCH_VIDEO": {
+            "type": "WATCH_VIDEO",
+            "target": 29,
+            "assets": {
+              "video": {
+                "url": "quests/1540124165225324656/1540124884489863198_1080.mp4",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "quests/1540124165225324656/1540124884456439908.jpg"
+              },
+              "video_low_res": {
+                "url": "quests/1540124165225324656/1540124884489863198_720.mp4",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "quests/1540124165225324656/1540124884456439908.jpg"
+              },
+              "video_hls": {
+                "url": "quests/1540124165225324656/1540124884489863198.m3u8",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "quests/1540124165225324656/1540124884456439908.jpg"
+              }
+            },
+            "messages": {
+              "video_title": "PLACEHOLDER"
+            }
+          },
+          "WATCH_VIDEO_ON_MOBILE": {
+            "type": "WATCH_VIDEO_ON_MOBILE",
+            "target": 29,
+            "assets": {
+              "video": {
+                "url": "quests/1540124165225324656/1540124884489863198_1080.mp4",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "quests/1540124165225324656/1540127743482662963.png"
+              },
+              "video_low_res": {
+                "url": "quests/1540124165225324656/1540124884489863198_720.mp4",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "quests/1540124165225324656/1540127743482662963.png"
+              },
+              "video_hls": {
+                "url": "quests/1540124165225324656/1540124884489863198.m3u8",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "quests/1540124165225324656/1540127743482662963.png"
+              }
+            },
+            "messages": {
+              "video_title": "PLACEHOLDER"
+            }
+          }
+        },
+        "join_operator": "or"
+      },
+      "rewards_config": {
+        "assignment_method": 1,
+        "rewards": [
+          {
+            "type": 4,
+            "sku_id": "1287881739531976815",
+            "messages": {
+              "name": "200 Orbs",
+              "name_with_article": "200 Orbs",
+              "redemption_instructions_by_platform": {
+                "0": "PLACEHOLDER"
+              }
+            },
+            "orb_quantity": 200,
+            "premium_orb_quantity": null
+          }
+        ],
+        "rewards_expire_at": "2026-10-22T00:00:00+00:00",
+        "platforms": [
+          0
+        ]
+      },
+      "share_policy": "shareable_everywhere",
+      "cta_config": {
+        "link": "https://www.playstation.com/it-happens-on-ps5/?emcid=hd-ha-536563",
+        "button_label": "Learn More",
+        "subtitle": "Erlebe unvergessliche Momente. It Happens on PS5."
+      },
+      "task_config": [],
+      "id": "1540124165225324656"
+    }
   }
 ]
