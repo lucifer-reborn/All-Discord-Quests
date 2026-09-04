@@ -107324,5 +107324,96 @@
       "task_config": [],
       "id": "1539692903037796422"
     }
+  },
+  {
+    "id": "1541855122747953324",
+    "user_status": null,
+    "targeted_content": [],
+    "preview": false,
+    "traffic_metadata_raw": "",
+    "config": {
+      "config_version": 2,
+      "starts_at": "2026-09-04T17:00:00+00:00",
+      "expires_at": "2026-09-15T00:00:00+00:00",
+      "features": [
+        15
+      ],
+      "application": {
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B36324648.455373167;dc_trk_aid=649556188;dc_trk_cid=263707959;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ltd=;dc_tdv=1",
+        "id": "1405836009584988170",
+        "name": "Battlefield 6"
+      },
+      "assets": {
+        "hero": "quests/1541855122747953324/1542262400139665458.jpg",
+        "quest_bar_hero_blurhash": "nggOHIi3dHdfl4h0hYZGQHYEdQ==",
+        "quest_bar_hero": "quests/1541855122747953324/1542262081733005422.jpg",
+        "game_tile": "PLACEHOLDER",
+        "logotype": "PLACEHOLDER",
+        "game_tile_light": "quests/1541855122747953324/1541874911273029673.jpg",
+        "game_tile_dark": "quests/1541855122747953324/1541874911273029673.jpg",
+        "logotype_light": "quests/1541855122747953324/1541874911369232464.png",
+        "logotype_dark": "quests/1541855122747953324/1541874911277092974.png"
+      },
+      "colors": {
+        "primary": "#4752C4",
+        "secondary": "#000000"
+      },
+      "messages": {
+        "quest_name": "Battlefield 6 Multiplayer",
+        "game_title": "Battlefield",
+        "game_publisher": "Electronic Arts"
+      },
+      "task_config_v2": {
+        "tasks": {
+          "ACHIEVEMENT_IN_GAME": {
+            "type": "ACHIEVEMENT_IN_GAME",
+            "target": 3,
+            "applications": [
+              {
+                "id": "1405836009584988170"
+              }
+            ],
+            "event_name": "matches_played_daily",
+            "messages": {
+              "task_title": "Complete 3 multiplayer matches",
+              "task_description": "Play 3 multiplayer matches"
+            },
+            "account_link_instructions": "https://help.ea.com/en/articles/ea-account/ea-account-linking/"
+          }
+        },
+        "join_operator": "or"
+      },
+      "rewards_config": {
+        "assignment_method": 1,
+        "rewards": [
+          {
+            "type": 1,
+            "sku_id": "1541855122747953325",
+            "asset": "quests/1541855122747953324/1542972727286177933.jpg",
+            "asset_video": null,
+            "messages": {
+              "name": "Hypersonic Weapon Skin",
+              "name_with_article": "a Hypersonic Weapon Skin",
+              "redemption_instructions_by_platform": {
+                "0": "Log in to redeem your code at: https://www.ea.com/games/battlefield/battlefield-6/redeem\n\n1. Log in to your EA Account  \n2. Redeem your in-game codes  \n3. Link your platforms to your EA Account to play on any platform"
+              }
+            },
+            "approximate_count": null,
+            "redemption_link": "https://www.ea.com/games/battlefield/battlefield-6/redeem"
+          }
+        ],
+        "rewards_expire_at": "2026-10-15T00:00:00+00:00",
+        "platforms": [
+          0
+        ]
+      },
+      "share_policy": "shareable_everywhere",
+      "cta_config": {
+        "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B36324648.455373167;dc_trk_aid=649556188;dc_trk_cid=263707959;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ltd=;dc_tdv=1",
+        "button_label": "Play Game"
+      },
+      "task_config": [],
+      "id": "1541855122747953324"
+    }
   }
 ]
