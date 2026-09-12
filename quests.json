@@ -110926,5 +110926,173 @@
       "task_config": [],
       "id": "1547274383226179668"
     }
+  },
+  {
+    "id": "1546355323118420009",
+    "user_status": null,
+    "targeted_content": [],
+    "preview": false,
+    "traffic_metadata_raw": "",
+    "config": {
+      "config_version": 2,
+      "starts_at": "2026-09-12T12:00:00+00:00",
+      "expires_at": "2026-09-28T00:00:00+00:00",
+      "features": [
+        15
+      ],
+      "application": {
+        "link": "https://gsght.com/c/qriuej",
+        "id": "1314395942253756416",
+        "name": "Marvel Rivals"
+      },
+      "assets": {
+        "hero": "quests/1546355323118420009/1547432270531403807.jpg",
+        "quest_bar_hero_blurhash": "mScKHIRwYVlaW1qReWlghvVnKg==",
+        "quest_bar_hero": "quests/1546355323118420009/1547432270627995769.jpg",
+        "game_tile": "PLACEHOLDER",
+        "logotype": "PLACEHOLDER",
+        "game_tile_light": "quests/1546355323118420009/1547432204274110534.png",
+        "game_tile_dark": "quests/1546355323118420009/1547432204274110534.png",
+        "logotype_light": "quests/1546355323118420009/1547432227124547594.png",
+        "logotype_dark": "quests/1546355323118420009/1547432227028336811.png"
+      },
+      "colors": {
+        "primary": "#4752C4",
+        "secondary": "#000000"
+      },
+      "messages": {
+        "quest_name": "Marvel Rivals S10: verify school email, get 10 free trial costumes",
+        "game_title": "Marvel Rivals",
+        "game_publisher": "NetEase Games"
+      },
+      "task_config_v2": {
+        "tasks": {
+          "PLAY_ON_DESKTOP": {
+            "type": "PLAY_ON_DESKTOP",
+            "target": 900,
+            "applications": [
+              {
+                "id": "1314395942253756416"
+              }
+            ]
+          }
+        },
+        "join_operator": "or"
+      },
+      "rewards_config": {
+        "assignment_method": 1,
+        "rewards": [
+          {
+            "type": 4,
+            "sku_id": "1287881739531976815",
+            "messages": {
+              "name": "700 Orbs",
+              "name_with_article": "700 Orbs",
+              "redemption_instructions_by_platform": {
+                "0": "PLACEHOLDER"
+              }
+            },
+            "orb_quantity": 700,
+            "premium_orb_quantity": null
+          }
+        ],
+        "rewards_expire_at": "2026-10-28T00:00:00+00:00",
+        "platforms": [
+          0
+        ]
+      },
+      "share_policy": "shareable_everywhere",
+      "cta_config": {
+        "link": "https://gsght.com/c/qriuej",
+        "button_label": "Play Now"
+      },
+      "task_config": [],
+      "id": "1546355323118420009"
+    }
+  },
+  {
+    "id": "1547678204398014494",
+    "user_status": null,
+    "targeted_content": [],
+    "preview": false,
+    "traffic_metadata_raw": "",
+    "config": {
+      "config_version": 2,
+      "starts_at": "2026-09-12T12:00:00+00:00",
+      "expires_at": "2026-09-28T00:00:00+00:00",
+      "features": [
+        15
+      ],
+      "application": {
+        "link": "https://gsght.com/c/qriuej",
+        "id": "1314395942253756416",
+        "name": "Marvel Rivals"
+      },
+      "assets": {
+        "hero": "quests/1546355323118420009/1547443173155020860.jpg",
+        "hero_video": "quests/1546355323118420009/1547443232709935265_720.mp4",
+        "quest_bar_hero_blurhash": "mygKFIIjCZkNloh2l4dgHhf8gA==",
+        "quest_bar_hero": "quests/1546355323118420009/1547443173071126608.jpg",
+        "quest_bar_hero_video": "quests/1546355323118420009/1547443264058040420_720.mp4",
+        "game_tile": "PLACEHOLDER",
+        "logotype": "PLACEHOLDER",
+        "game_tile_light": "quests/1546355323118420009/1547432204274110534.png",
+        "game_tile_dark": "quests/1546355323118420009/1547432204274110534.png",
+        "logotype_light": "quests/1546355323118420009/1547432227124547594.png",
+        "logotype_dark": "quests/1546355323118420009/1547432227028336811.png"
+      },
+      "colors": {
+        "primary": "#4752C4",
+        "secondary": "#000000"
+      },
+      "messages": {
+        "quest_name": "Marvel Rivals S10: verify school email, get 10 free trial costumes",
+        "game_title": "Marvel Rivals",
+        "game_publisher": "NetEase Games"
+      },
+      "task_config_v2": {
+        "tasks": {
+          "PLAY_ON_DESKTOP": {
+            "type": "PLAY_ON_DESKTOP",
+            "target": 900,
+            "applications": [
+              {
+                "id": "1314395942253756416"
+              }
+            ]
+          }
+        },
+        "join_operator": "or"
+      },
+      "rewards_config": {
+        "assignment_method": 1,
+        "rewards": [
+          {
+            "type": 4,
+            "sku_id": "1287881739531976815",
+            "messages": {
+              "name": "700 Orbs",
+              "name_with_article": "700 Orbs",
+              "redemption_instructions_by_platform": {
+                "0": "PLACEHOLDER"
+              }
+            },
+            "orb_quantity": 700,
+            "premium_orb_quantity": null
+          }
+        ],
+        "rewards_expire_at": "2026-10-28T00:00:00+00:00",
+        "platforms": [
+          0
+        ]
+      },
+      "share_policy": "shareable_everywhere",
+      "cta_config": {
+        "link": "https://gsght.com/c/qriuej",
+        "button_label": "Play Now"
+      },
+      "task_config": [],
+      "id": "1547678204398014494"
+    }
   }
 ]
