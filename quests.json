@@ -111094,5 +111094,135 @@
       "task_config": [],
       "id": "1547678204398014494"
     }
+  },
+  {
+    "id": "1546358702544658462",
+    "user_status": null,
+    "targeted_content": [],
+    "preview": false,
+    "traffic_metadata_raw": "",
+    "config": {
+      "config_version": 2,
+      "starts_at": "2026-09-12T12:00:00+00:00",
+      "expires_at": "2026-09-28T00:00:00+00:00",
+      "features": [
+        15
+      ],
+      "application": {
+        "link": "https://gsght.com/c/qriuej",
+        "id": "545364944258990091",
+        "name": "Discord"
+      },
+      "assets": {
+        "hero": "quests/1546358702544658462/1547434219989368842.jpg",
+        "hero_video": "quests/1546358702544658462/1547435156975915018_720.mp4",
+        "quest_bar_hero_blurhash": "mygKFIIjCZkNloh2l4dgHhf8gA==",
+        "quest_bar_hero": "quests/1546358702544658462/1547434245331484693.jpg",
+        "quest_bar_hero_video": "quests/1546358702544658462/1547434918643236924_720.mp4",
+        "game_tile": "PLACEHOLDER",
+        "logotype": "PLACEHOLDER",
+        "game_tile_light": "quests/1546358702544658462/1547434147100889208.png",
+        "game_tile_dark": "quests/1546358702544658462/1547434147100889208.png",
+        "logotype_light": "quests/1546358702544658462/1547434168353427497.png",
+        "logotype_dark": "quests/1546358702544658462/1547434168361947147.png"
+      },
+      "colors": {
+        "primary": "#4752C4",
+        "secondary": "#000000"
+      },
+      "messages": {
+        "quest_name": "Marvel Rivals S10: verify school email, get 10 free trial costumes",
+        "game_title": "Marvel Rivals",
+        "game_publisher": "NetEase Games"
+      },
+      "task_config_v2": {
+        "tasks": {
+          "WATCH_VIDEO": {
+            "type": "WATCH_VIDEO",
+            "target": 85,
+            "assets": {
+              "video": {
+                "url": "quests/1546358702544658462/1547434279317938246_1080.mp4",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "quests/1546358702544658462/1547434279204552704.png"
+              },
+              "video_low_res": {
+                "url": "quests/1546358702544658462/1547434279317938246_720.mp4",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "quests/1546358702544658462/1547434279204552704.png"
+              },
+              "video_hls": {
+                "url": "quests/1546358702544658462/1547434279317938246.m3u8",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "quests/1546358702544658462/1547434279204552704.png"
+              }
+            },
+            "messages": {
+              "video_title": "PLACEHOLDER"
+            }
+          },
+          "WATCH_VIDEO_ON_MOBILE": {
+            "type": "WATCH_VIDEO_ON_MOBILE",
+            "target": 85,
+            "assets": {
+              "video": {
+                "url": "quests/1546358702544658462/1547434280874020955_1080.mp4",
+                "width": 1080,
+                "height": 1920,
+                "thumbnail": "quests/1546358702544658462/1547434279066275860.png"
+              },
+              "video_low_res": {
+                "url": "quests/1546358702544658462/1547434280874020955_720.mp4",
+                "width": 1080,
+                "height": 1920,
+                "thumbnail": "quests/1546358702544658462/1547434279066275860.png"
+              },
+              "video_hls": {
+                "url": "quests/1546358702544658462/1547434280874020955.m3u8",
+                "width": 1080,
+                "height": 1920,
+                "thumbnail": "quests/1546358702544658462/1547434279066275860.png"
+              }
+            },
+            "messages": {
+              "video_title": "PLACEHOLDER"
+            }
+          }
+        },
+        "join_operator": "or"
+      },
+      "rewards_config": {
+        "assignment_method": 1,
+        "rewards": [
+          {
+            "type": 4,
+            "sku_id": "1287881739531976815",
+            "messages": {
+              "name": "200 Orbs",
+              "name_with_article": "200 Orbs",
+              "redemption_instructions_by_platform": {
+                "0": "PLACEHOLDER"
+              }
+            },
+            "orb_quantity": 200,
+            "premium_orb_quantity": null
+          }
+        ],
+        "rewards_expire_at": "2026-10-28T00:00:00+00:00",
+        "platforms": [
+          0
+        ]
+      },
+      "share_policy": "shareable_everywhere",
+      "cta_config": {
+        "link": "https://gsght.com/c/qriuej",
+        "button_label": "Play Now"
+      },
+      "task_config": [],
+      "id": "1546358702544658462"
+    }
   }
 ]
