@@ -111879,5 +111879,175 @@
       "task_config": [],
       "id": "1547328231630446672"
     }
+  },
+  {
+    "id": "1545515895353385011",
+    "user_status": null,
+    "targeted_content": [],
+    "preview": false,
+    "traffic_metadata_raw": "",
+    "config": {
+      "config_version": 2,
+      "starts_at": "2026-09-14T16:00:00+00:00",
+      "expires_at": "2026-09-24T06:00:00+00:00",
+      "features": [
+        15
+      ],
+      "application": {
+        "link": "https://www.roblox.com/games/17625359962/RIVALS?gsrbx=1",
+        "id": "363445589247131668",
+        "name": "Roblox"
+      },
+      "assets": {
+        "hero": "quests/1545515895353385011/1547734220657524756.jpg",
+        "hero_video": "quests/1545515895353385011/1547734299543994468_720.mp4",
+        "quest_bar_hero_blurhash": "I0gKKo7lo+g9gvh4cKQFWWk=",
+        "quest_bar_hero": "quests/1545515895353385011/1547734220657524756.jpg",
+        "quest_bar_hero_video": "quests/1545515895353385011/1547734299543994468_720.mp4",
+        "game_tile": "PLACEHOLDER",
+        "logotype": "PLACEHOLDER",
+        "game_tile_light": "quests/1545079125243600947/1545080582759907378.png",
+        "game_tile_dark": "quests/1545079125243600947/1545080582352937011.png",
+        "logotype_light": "quests/1545515895353385011/1547734038272548934.png",
+        "logotype_dark": "quests/1545515895353385011/1547734038272548934.png"
+      },
+      "colors": {
+        "primary": "#4752C4",
+        "secondary": "#000000"
+      },
+      "messages": {
+        "quest_name": "RIVALS",
+        "game_title": "RIVALS on Roblox",
+        "game_publisher": "ROBLOX"
+      },
+      "task_config_v2": {
+        "tasks": {
+          "PLAY_ON_DESKTOP": {
+            "type": "PLAY_ON_DESKTOP",
+            "target": 900,
+            "applications": [
+              {
+                "id": "363445589247131668"
+              }
+            ]
+          }
+        },
+        "join_operator": "or"
+      },
+      "rewards_config": {
+        "assignment_method": 1,
+        "rewards": [
+          {
+            "type": 4,
+            "sku_id": "1287881739531976815",
+            "messages": {
+              "name": "700 Orbs",
+              "name_with_article": "700 Orbs",
+              "redemption_instructions_by_platform": {
+                "0": "PLACEHOLDER"
+              }
+            },
+            "orb_quantity": 700,
+            "premium_orb_quantity": null
+          }
+        ],
+        "rewards_expire_at": "2026-10-24T06:00:00+00:00",
+        "platforms": [
+          0
+        ]
+      },
+      "share_policy": "shareable_everywhere",
+      "cta_config": {
+        "link": "https://www.roblox.com/games/17625359962/RIVALS?gsrbx=1",
+        "button_label": "Play Now"
+      },
+      "task_config": [],
+      "id": "1545515895353385011"
+    }
+  },
+  {
+    "id": "1545514693555392603",
+    "user_status": null,
+    "targeted_content": [],
+    "preview": false,
+    "traffic_metadata_raw": "",
+    "config": {
+      "config_version": 2,
+      "starts_at": "2026-09-14T16:00:00+00:00",
+      "expires_at": "2026-09-24T06:00:00+00:00",
+      "features": [
+        15
+      ],
+      "application": {
+        "link": "https://www.roblox.com/ko/games/17625359962/RIVALS?gsrbx=1",
+        "id": "363445589247131668",
+        "name": "Roblox"
+      },
+      "assets": {
+        "hero": "quests/1545514693555392603/1547739050692317184.jpg",
+        "hero_video": "quests/1545514693555392603/1547739197404745869_720.mp4",
+        "quest_bar_hero_blurhash": "I0gKKo7lo+g9gvh4cKQFWWk=",
+        "quest_bar_hero": "quests/1545514693555392603/1547739050692317184.jpg",
+        "quest_bar_hero_video": "quests/1545514693555392603/1547739197404745869_720.mp4",
+        "game_tile": "PLACEHOLDER",
+        "logotype": "PLACEHOLDER",
+        "game_tile_light": "quests/1545079125243600947/1545080582759907378.png",
+        "game_tile_dark": "quests/1545079125243600947/1545080582352937011.png",
+        "logotype_light": "quests/1545514693555392603/1547739051254091806.png",
+        "logotype_dark": "quests/1545514693555392603/1547739051254091806.png"
+      },
+      "colors": {
+        "primary": "#4752C4",
+        "secondary": "#000000"
+      },
+      "messages": {
+        "quest_name": "라이벌",
+        "game_title": "라이벌 on Roblox",
+        "game_publisher": "ROBLOX"
+      },
+      "task_config_v2": {
+        "tasks": {
+          "PLAY_ON_DESKTOP": {
+            "type": "PLAY_ON_DESKTOP",
+            "target": 900,
+            "applications": [
+              {
+                "id": "363445589247131668"
+              }
+            ]
+          }
+        },
+        "join_operator": "or"
+      },
+      "rewards_config": {
+        "assignment_method": 1,
+        "rewards": [
+          {
+            "type": 4,
+            "sku_id": "1287881739531976815",
+            "messages": {
+              "name": "700 Orbs",
+              "name_with_article": "700 Orbs",
+              "redemption_instructions_by_platform": {
+                "0": "PLACEHOLDER"
+              }
+            },
+            "orb_quantity": 700,
+            "premium_orb_quantity": null
+          }
+        ],
+        "rewards_expire_at": "2026-10-24T06:00:00+00:00",
+        "platforms": [
+          0
+        ]
+      },
+      "share_policy": "shareable_everywhere",
+      "cta_config": {
+        "link": "https://www.roblox.com/ko/games/17625359962/RIVALS?gsrbx=1",
+        "button_label": "Play Now"
+      },
+      "task_config": [],
+      "id": "1545514693555392603"
+    }
   }
 ]
