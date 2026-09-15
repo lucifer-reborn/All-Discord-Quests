@@ -112914,5 +112914,115 @@
       "task_config": [],
       "id": "1547065378205736991"
     }
+  },
+  {
+    "id": "1544963709678522439",
+    "user_status": null,
+    "targeted_content": [],
+    "preview": false,
+    "traffic_metadata_raw": "",
+    "config": {
+      "config_version": 2,
+      "starts_at": "2026-09-15T17:00:00+00:00",
+      "expires_at": "2026-10-01T00:00:00+00:00",
+      "features": [
+        44,
+        15
+      ],
+      "application": {
+        "link": "https://pageload.itddo2.com/v2/app-landing/prod/index.html?o2_id=1549&container_id=GTM-5DDSWRK8&o2_app_id=107897&o2_ascribe=3",
+        "id": "545364944258990091",
+        "name": "Discord"
+      },
+      "assets": {
+        "hero": "quests/1544963709678522439/1547130826230206464.jpg",
+        "hero_video": "quests/1544963709678522439/1547078669799792660_720.mp4",
+        "quest_bar_hero_blurhash": "zqYJGopAmVeVl5Z3v2r1ylY=",
+        "quest_bar_hero": "quests/1544963709678522439/1547130826230206464.jpg",
+        "quest_bar_hero_video": "quests/1544963709678522439/1547078502069829734_720.mp4",
+        "game_tile": "PLACEHOLDER",
+        "logotype": "PLACEHOLDER",
+        "game_tile_light": "quests/1544963709678522439/1547078179334918144.png",
+        "game_tile_dark": "quests/1544963709678522439/1547078179334918144.png",
+        "logotype_light": "quests/1544963709678522439/1547780267379396739.png",
+        "logotype_dark": "quests/1544963709678522439/1547780267433787503.png"
+      },
+      "colors": {
+        "primary": "#4752C4",
+        "secondary": "#000000"
+      },
+      "messages": {
+        "quest_name": "Dragonheir: Chaos Revelry",
+        "game_title": "Dragonstride: Legacy Reborn",
+        "game_publisher": "Level Infinite"
+      },
+      "task_config_v2": {
+        "tasks": {
+          "WATCH_VIDEO_ON_MOBILE": {
+            "type": "WATCH_VIDEO_ON_MOBILE",
+            "target": 45,
+            "assets": {
+              "video": {
+                "url": "quests/1544963709678522439/1547078177354940436_1080.mp4",
+                "width": 1080,
+                "height": 1920,
+                "thumbnail": "quests/1544963709678522439/1547078177334108231.jpg"
+              },
+              "video_low_res": {
+                "url": "quests/1544963709678522439/1547078177354940436_720.mp4",
+                "width": 1080,
+                "height": 1920,
+                "thumbnail": "quests/1544963709678522439/1547078177334108231.jpg"
+              },
+              "video_hls": {
+                "url": "quests/1544963709678522439/1547078177354940436.m3u8",
+                "width": 1080,
+                "height": 1920,
+                "thumbnail": "quests/1544963709678522439/1547078177334108231.jpg"
+              }
+            },
+            "messages": {
+              "video_title": "PLACEHOLDER"
+            }
+          }
+        },
+        "join_operator": "or"
+      },
+      "rewards_config": {
+        "assignment_method": 1,
+        "rewards": [
+          {
+            "type": 4,
+            "sku_id": "1287881739531976815",
+            "messages": {
+              "name": "200 Orbs",
+              "name_with_article": "200 Orbs",
+              "redemption_instructions_by_platform": {
+                "0": "PLACEHOLDER"
+              }
+            },
+            "orb_quantity": 200,
+            "premium_orb_quantity": null
+          }
+        ],
+        "rewards_expire_at": "2026-10-31T00:00:00+00:00",
+        "platforms": [
+          0
+        ]
+      },
+      "share_policy": "shareable_everywhere",
+      "cta_config": {
+        "android": {
+          "android_app_id": "com.sgra.dragonzhtw"
+        },
+        "ios": {
+          "ios_app_id": "6746432809"
+        },
+        "link": "https://pageload.itddo2.com/v2/app-landing/prod/index.html?o2_id=1549&container_id=GTM-5DDSWRK8&o2_app_id=107897&o2_ascribe=3",
+        "button_label": "Play Now"
+      },
+      "task_config": [],
+      "id": "1544963709678522439"
+    }
   }
 ]
