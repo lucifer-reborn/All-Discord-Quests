@@ -118353,5 +118353,203 @@
       "task_config": [],
       "id": "1551651510004351088"
     }
+  },
+  {
+    "id": "1549171029241233449",
+    "user_status": null,
+    "targeted_content": [],
+    "preview": false,
+    "traffic_metadata_raw": "",
+    "config": {
+      "config_version": 2,
+      "starts_at": "2026-09-22T17:00:00+00:00",
+      "expires_at": "2026-10-14T00:00:00+00:00",
+      "features": [
+        15
+      ],
+      "application": {
+        "link": "https://game.ea.com/redirect?campaignName=APXL_LF_US-JP_WPP_DIRD_CM_S30SNA_AXN-001-002&caudience=C3-LAPSED30&ccreative=S30-SNAPBACK-KEY-ART",
+        "id": "542075586886107149",
+        "name": "Apex Legends"
+      },
+      "assets": {
+        "hero": "quests/1549171029241233449/1549172049606475986.jpg",
+        "quest_bar_hero_blurhash": "TQcKJIQEqneIh3iTeXmPd/yHhg==",
+        "quest_bar_hero": "quests/1549171029241233449/1549172049669394472.jpg",
+        "game_tile": "PLACEHOLDER",
+        "logotype": "PLACEHOLDER",
+        "game_tile_light": "quests/1549171029241233449/1549171819775533056.png",
+        "game_tile_dark": "quests/1549171029241233449/1549171819775533056.png",
+        "logotype_light": "quests/1549171029241233449/1549171857477869578.png",
+        "logotype_dark": "quests/1549171029241233449/1549171857452830801.png"
+      },
+      "colors": {
+        "primary": "#4752C4",
+        "secondary": "#000000"
+      },
+      "messages": {
+        "quest_name": "Apex VS Street Fighter 6 Event",
+        "game_title": "Apex Legends",
+        "game_publisher": "Electronic Arts"
+      },
+      "task_config_v2": {
+        "tasks": {
+          "PLAY_ON_DESKTOP": {
+            "type": "PLAY_ON_DESKTOP",
+            "target": 900,
+            "applications": [
+              {
+                "id": "542075586886107149"
+              }
+            ]
+          },
+          "PLAY_ON_XBOX": {
+            "type": "PLAY_ON_XBOX",
+            "target": 900,
+            "applications": [
+              {
+                "id": "542075586886107149"
+              }
+            ],
+            "external_ids": [
+              "175227487"
+            ]
+          },
+          "PLAY_ON_PLAYSTATION": {
+            "type": "PLAY_ON_PLAYSTATION",
+            "target": 900,
+            "applications": [
+              {
+                "id": "542075586886107149"
+              }
+            ],
+            "external_ids": [
+              "PPSA04874_00",
+              "PPSA04873_00",
+              "CUSA12552_00",
+              "CUSA12540_00"
+            ]
+          }
+        },
+        "join_operator": "or"
+      },
+      "rewards_config": {
+        "assignment_method": 1,
+        "rewards": [
+          {
+            "type": 1,
+            "sku_id": "1549171029241233450",
+            "asset": "quests/1549171029241233449/1549172050067857438.jpg",
+            "asset_video": null,
+            "messages": {
+              "name": "Kung Fu Coach tracker set",
+              "name_with_article": "a Kung Fu Coach tracker set",
+              "redemption_instructions_by_platform": {
+                "0": "Redeem the code below on the Apex Legends redemption page to access your reward.\n\nCodes are not platform specific and are redeemed from within the Apex Legends Storefront.  \n1. Boot Apex Legends on your platform of choice.  \n2. When on the lobby screen select [Store].  \n3. Select [Redeem Code] on the bottom left.  \n4. Enter the code you received.  \n5. Select [Redeem].  \n"
+              }
+            },
+            "approximate_count": null,
+            "redemption_link": null
+          }
+        ],
+        "rewards_expire_at": "2026-11-13T00:00:00+00:00",
+        "platforms": [
+          0
+        ]
+      },
+      "share_policy": "shareable_everywhere",
+      "cta_config": {
+        "link": "https://game.ea.com/redirect?campaignName=APXL_LF_US-JP_WPP_DIRD_CM_S30SNA_AXN-001-002&caudience=C3-LAPSED30&ccreative=S30-SNAPBACK-KEY-ART",
+        "button_label": "Get Game",
+        "subtitle": "Street Fighter 6 smashes into the Outlands"
+      },
+      "task_config": [],
+      "id": "1549171029241233449"
+    }
+  },
+  {
+    "id": "1539421708417765386",
+    "user_status": null,
+    "targeted_content": [],
+    "preview": false,
+    "traffic_metadata_raw": "",
+    "config": {
+      "config_version": 2,
+      "starts_at": "2026-09-22T17:00:00+00:00",
+      "expires_at": "2026-10-01T00:00:00+00:00",
+      "features": [
+        15
+      ],
+      "application": {
+        "link": "https://store.steampowered.com/app/3613050/Gravebound/",
+        "id": "1551691007387508878",
+        "name": "Gravebound"
+      },
+      "assets": {
+        "hero": "quests/1539421708417765386/1546914021784158218.jpg",
+        "hero_video": "quests/1539421708417765386/1539424583407509504_720.mp4",
+        "quest_bar_hero_blurhash": "0icKDIIhiHePdniId2jmcAKpRg==",
+        "quest_bar_hero": "quests/1539421708417765386/1546914000439214120.jpg",
+        "quest_bar_hero_video": "quests/1539421708417765386/1539424135321493544_720.mp4",
+        "game_tile": "PLACEHOLDER",
+        "logotype": "PLACEHOLDER",
+        "game_tile_light": "quests/1539421708417765386/1539423906274742332.jpg",
+        "game_tile_dark": "quests/1539421708417765386/1539423906274742332.jpg",
+        "logotype_light": "quests/1539421708417765386/1539424409083842620.png",
+        "logotype_dark": "quests/1539421708417765386/1539424270306770995.png"
+      },
+      "colors": {
+        "primary": "#4752C4",
+        "secondary": "#000000"
+      },
+      "messages": {
+        "quest_name": "Gravebound Early Access Launch",
+        "game_title": "Gravebound",
+        "game_publisher": "Crater Studios"
+      },
+      "task_config_v2": {
+        "tasks": {
+          "PLAY_ON_DESKTOP": {
+            "type": "PLAY_ON_DESKTOP",
+            "target": 900,
+            "applications": [
+              {
+                "id": "1551691007387508878"
+              }
+            ]
+          }
+        },
+        "join_operator": "or"
+      },
+      "rewards_config": {
+        "assignment_method": 1,
+        "rewards": [
+          {
+            "type": 4,
+            "sku_id": "1287881739531976815",
+            "messages": {
+              "name": "700 Orbs",
+              "name_with_article": "700 Orbs",
+              "redemption_instructions_by_platform": {
+                "0": "PLACEHOLDER"
+              }
+            },
+            "orb_quantity": 700,
+            "premium_orb_quantity": null
+          }
+        ],
+        "rewards_expire_at": "2026-10-31T00:00:00+00:00",
+        "platforms": [
+          0
+        ]
+      },
+      "share_policy": "shareable_everywhere",
+      "cta_config": {
+        "link": "https://store.steampowered.com/app/3613050/Gravebound/",
+        "button_label": "Play Now"
+      },
+      "task_config": [],
+      "id": "1539421708417765386"
+    }
   }
 ]
