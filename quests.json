@@ -134460,5 +134460,99 @@
       "task_config": [],
       "id": "1562333156105789580"
     }
+  },
+  {
+    "id": "1552038438684074094",
+    "user_status": null,
+    "targeted_content": [],
+    "preview": false,
+    "traffic_metadata_raw": "",
+    "config": {
+      "config_version": 2,
+      "starts_at": "2026-11-03T17:00:00+00:00",
+      "expires_at": "2026-11-16T01:00:00+00:00",
+      "features": [
+        27,
+        36,
+        15
+      ],
+      "application": {
+        "link": "https://discord.com/invite/wizards-magic",
+        "id": "1549339406907740270",
+        "name": "[Prod] Engage"
+      },
+      "assets": {
+        "hero": "quests/1552038438684074094/1566882807555432582.jpg",
+        "quest_bar_hero_blurhash": "kRgGDIKPmIZUNpajerxbcHoGqA==",
+        "quest_bar_hero": "quests/1552038438684074094/1566882019529719840.jpg",
+        "quest_bar_hero_video": "quests/1552038438684074094/1566882725074305094_720.mp4",
+        "game_tile": "PLACEHOLDER",
+        "logotype": "PLACEHOLDER",
+        "game_tile_light": "quests/1552038438684074094/1565071769637883904.png",
+        "game_tile_dark": "quests/1552038438684074094/1565071769700925450.png",
+        "logotype_light": "quests/1552038438684074094/1565071769805791323.png",
+        "logotype_dark": "quests/1552038438684074094/1565071769755451523.png"
+      },
+      "colors": {
+        "primary": "#4752C4",
+        "secondary": "#000000"
+      },
+      "messages": {
+        "quest_name": "Beat The Kobayashi Maru",
+        "game_title": "Magic: The Gathering",
+        "game_publisher": "Magic: The Gathering"
+      },
+      "task_config_v2": {
+        "tasks": {
+          "ACHIEVEMENT_IN_ACTIVITY": {
+            "type": "ACHIEVEMENT_IN_ACTIVITY",
+            "target": 7,
+            "applications": [
+              {
+                "id": "1549339406907740270"
+              }
+            ],
+            "event_name": "progress",
+            "messages": {
+              "task_title": "Engage",
+              "task_description": "Find all 7 Magic: The Gathering | Star Trek cards to unlock a MTG | Star Trek Avatar Decoration."
+            }
+          }
+        },
+        "join_operator": "or"
+      },
+      "rewards_config": {
+        "assignment_method": 1,
+        "rewards": [
+          {
+            "type": 3,
+            "sku_id": "1565428626281988327",
+            "asset": "quests/1552038438684074094/1565428862819504208.mp4",
+            "asset_video": null,
+            "messages": {
+              "name": "MTG | Star Trek Avatar Decoration",
+              "name_with_article": "an MTG | Star Trek Avatar Decoration",
+              "redemption_instructions_by_platform": {
+                "0": "PLACEHOLDER"
+              }
+            },
+            "expires_at": "2027-01-16T01:00:00+00:00",
+            "expires_at_premium": null,
+            "expiration_mode": 3
+          }
+        ],
+        "rewards_expire_at": "2026-12-16T01:00:00+00:00",
+        "platforms": [
+          0
+        ]
+      },
+      "share_policy": "shareable_everywhere",
+      "cta_config": {
+        "link": "https://discord.com/invite/wizards-magic",
+        "button_label": "Join Server"
+      },
+      "task_config": [],
+      "id": "1552038438684074094"
+    }
   }
 ]
