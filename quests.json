@@ -145269,5 +145269,138 @@
       "task_config": [],
       "id": "1572384460580589671"
     }
+  },
+  {
+    "id": "1572086779056496692",
+    "user_status": null,
+    "targeted_content": [],
+    "preview": false,
+    "traffic_metadata_raw": "",
+    "config": {
+      "config_version": 2,
+      "starts_at": "2026-11-18T23:50:00+00:00",
+      "expires_at": "2026-12-07T04:59:00+00:00",
+      "features": [
+        15
+      ],
+      "application": {
+        "link": "https://www.rockstargames.com/VI/PS5/editions",
+        "id": "1445160676522856458",
+        "name": "Grand Theft Auto VI"
+      },
+      "assets": {
+        "hero": "quests/1572086779056496692/1572291697361166377.jpg",
+        "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
+        "quest_bar_hero": "quests/1572086779056496692/1572297379619676181.jpg",
+        "quest_bar_hero_video": "quests/1572086779056496692/1572660247619829901_720.mp4",
+        "game_tile": "PLACEHOLDER",
+        "logotype": "PLACEHOLDER",
+        "game_tile_light": "quests/1572086779056496692/1572291697310961804.png",
+        "game_tile_dark": "quests/1572086779056496692/1572291697491058698.png",
+        "logotype_light": "quests/1572086779056496692/1572291697361293422.png",
+        "logotype_dark": "quests/1572086779056496692/1572291697411493898.png"
+      },
+      "colors": {
+        "primary": "#4752C4",
+        "secondary": "#000000"
+      },
+      "messages": {
+        "quest_name": "Grand Theft Auto VI: Out Now",
+        "game_title": "GTAVI — Now Available",
+        "game_publisher": "Rockstar Games"
+      },
+      "task_config_v2": {
+        "tasks": {
+          "WATCH_VIDEO": {
+            "type": "WATCH_VIDEO",
+            "target": 29,
+            "assets": {
+              "video": {
+                "url": "quests/1572086779056496692/1572396455920935002_1080.mp4",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "quests/1572086779056496692/1572295317716734122.jpg"
+              },
+              "video_low_res": {
+                "url": "quests/1572086779056496692/1572396455920935002_720.mp4",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "quests/1572086779056496692/1572295317716734122.jpg"
+              },
+              "video_hls": {
+                "url": "quests/1572086779056496692/1572396455920935002.m3u8",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "quests/1572086779056496692/1572295317716734122.jpg"
+              }
+            },
+            "messages": {
+              "video_title": "PLACEHOLDER"
+            }
+          },
+          "WATCH_VIDEO_ON_MOBILE": {
+            "type": "WATCH_VIDEO_ON_MOBILE",
+            "target": 29,
+            "assets": {
+              "video": {
+                "url": "quests/1572086779056496692/1572396455920935002_1080.mp4",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "quests/1572086779056496692/1572295317716734122.jpg"
+              },
+              "video_low_res": {
+                "url": "quests/1572086779056496692/1572396455920935002_720.mp4",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "quests/1572086779056496692/1572295317716734122.jpg"
+              },
+              "video_hls": {
+                "url": "quests/1572086779056496692/1572396455920935002.m3u8",
+                "width": 1920,
+                "height": 1080,
+                "thumbnail": "quests/1572086779056496692/1572295317716734122.jpg"
+              }
+            },
+            "messages": {
+              "video_title": "PLACEHOLDER"
+            }
+          }
+        },
+        "join_operator": "or"
+      },
+      "rewards_config": {
+        "assignment_method": 1,
+        "rewards": [
+          {
+            "type": 3,
+            "sku_id": "1572317684375232582",
+            "asset": "quests/1572086779056496692/1572318849271857162.mp4",
+            "asset_video": null,
+            "messages": {
+              "name": "I HEART VICE CITY Avatar",
+              "name_with_article": "the I HEART VICE CITY Avatar",
+              "redemption_instructions_by_platform": {
+                "0": "PLACEHOLDER"
+              }
+            },
+            "expires_at": "2027-02-05T01:00:00+00:00",
+            "expires_at_premium": null,
+            "expiration_mode": 3
+          }
+        ],
+        "rewards_expire_at": "2027-01-06T04:59:00+00:00",
+        "platforms": [
+          0
+        ]
+      },
+      "share_policy": "shareable_everywhere",
+      "cta_config": {
+        "link": "https://www.rockstargames.com/VI/PS5/editions",
+        "button_label": "Buy Now",
+        "subtitle": "GTAVI — Now Available"
+      },
+      "task_config": [],
+      "id": "1572086779056496692"
+    }
   }
 ]
